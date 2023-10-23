@@ -1,6 +1,20 @@
 *{
     text-align: center;
+
+}
+#body{
+    background: black;
+
 }
 #img{
-    width:13vh
+    width:20vh
+}
+#nav{
+    background-color: black;
+}
+#offcanvas{
+    background-color: red;
+}
+#burger{
+ background-color: black;
 }
