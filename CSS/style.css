@@ -6,8 +6,7 @@
 #body{
     background: black;
     color: white;
-}
-#home{
+    overflow-x: hidden;
 }
 #img{
     width:10vh
@@ -30,4 +29,7 @@
 }
 .space{
     margin: 48px;
+}
+#but{
+    background-color: red;
 }
