@@ -1,20 +1,33 @@
 *{
-    text-align: center;
-
+    font-family: gabarito;
+    margin: 0;
+    padding: 0;
 }
 #body{
     background: black;
-
+    color: white;
+}
+#home{
 }
 #img{
-    width:20vh
+    width:10vh
 }
 #nav{
     background-color: black;
+    color: white;
 }
 #offcanvas{
-    background-color: red;
+    background-color: black;
+    color: rgb(190, 0, 0);
+}
+#offcanvasNavbar{
+    background-color:rgb(190, 0, 0);
+    color: black;
 }
 #burger{
  background-color: black;
+
+}
+.space{
+    margin: 48px;
 }
